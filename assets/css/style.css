@@ -10,6 +10,9 @@
 .es-main-color {
     color: #0f172b !important;
 }
+.bg-main-color {
+    background-color: white !important;
+  }
 .bg-img {
     background-image: url('../img/hero-bg.jpg');
     width: 100%;
